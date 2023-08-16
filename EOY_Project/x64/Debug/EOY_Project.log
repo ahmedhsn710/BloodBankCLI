@@ -1,0 +1,13 @@
+﻿  BloodBank.cpp
+  bloodbankfilehandler.cpp
+  BloodType.cpp
+  donorfilehandler.cpp
+  DonorGUI.cpp
+  filehandler.cpp
+  GUI.cpp
+  Main.cpp
+  Patient.cpp
+  patientfilehandler.cpp
+  PatientGUI.cpp
+  Generating Code...
+  EOY_Project.vcxproj -> C:\Users\Ahmed\OneDrive\Pictures\Projects\Blood-Donation-System-master\Blood-Donation-System-master\x64\Debug\EOY_Project.exe
